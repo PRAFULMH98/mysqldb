@@ -1,0 +1,7 @@
+<!--...-->	Defines a comment
+
+<!DOCTYPE> 	Defines the document type
+
+<a>		Defines a hyperlink
+
+<article>	Defines an article

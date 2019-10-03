@@ -1,0 +1,31 @@
+{
+  "name": "nodejs-express-sequelizejs-mysql",
+  "version": "1.0.0",
+  "description": "nodejs-express-sequelizejs-mysql",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "NodeJs-Express-SequelizeJs-MySQL",
+    "nodejs",
+    "mysql",
+    "sequelize",
+    "save",
+    "file/image"
+  ],
+  "author": "JSA",
+  "license": "ISC",
+  "dependencies": {
+    "csv-parse": "^4.4.7",
+    "csv-parser": "^2.3.1",
+    "csvjson": "^5.1.0",
+    "ejs": "^2.7.1",
+    "express": "^4.17.1",
+    "express-generator": "^4.16.1",
+    "mysql": "^2.17.1",
+    "mysql2": "^1.7.0",
+    "sequelize": "^4.44.3",
+    "sequelize-cli": "^5.5.1"
+  }
+}
